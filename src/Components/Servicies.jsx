@@ -22,7 +22,7 @@ const Servicies = () => {
   ];
 
   return (
-    <div className="flex flex-col items-center justify-center py-16 px-4">
+    <div className="flex flex-col items-center justify-center py-10 sm:px-4 px-14">
       <div className="max-w-6xl text-center">
         
         <h1 className="text-3xl md:text-4xl font-bold font-sans mt-5">

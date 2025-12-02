@@ -4,7 +4,7 @@ import image from '../assets/image.png'
 const NewsLetter = () => {
   return (
     <div className=' flex items-center justify-center py-10'> 
-     <div className='mt-5 flex gap-4  max-w-3xl px-5 py-5 bg-teal-700 rounded-tl-xl rounded-br-xl  text-white'>
+     <div className='mt-5 flex sm:flex-row flex-col gap-4  max-w-3xl px-5 py-5 bg-teal-700 rounded-tl-xl rounded-br-xl  text-white'>
       {/* right */}
       <div>
            <div className='flex gap-1'>

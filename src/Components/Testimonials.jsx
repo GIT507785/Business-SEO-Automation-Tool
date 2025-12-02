@@ -12,7 +12,7 @@ const Testimonials = () => {
     ];
 
     return (
-        <div className='sm:px-20 px-5  py-10'>
+        <div className='sm:px-20 px-15  py-10'>
             <div className='flex gap-3'>
                 <h1 className='bg-green-200 text-teal-800 px-3 py-1 font-sans font-bold'>Testimonials</h1>
                 <div className='bg-green-800 h-0.5 w-15 mt-3'></div>
